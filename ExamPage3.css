@@ -10,7 +10,7 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 main{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/oldbooks.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://anjarasoaluc260105-a11y.github.io/Examen/oldbooks.jpg');
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
