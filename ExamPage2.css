@@ -90,7 +90,7 @@ h2{
   background: grey;
 }
 main{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/Font.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://anjarasoaluc260105-a11y.github.io/Examen/Font.jpg');
   width: 100vw;
   height: auto;
   background-size: cover;
