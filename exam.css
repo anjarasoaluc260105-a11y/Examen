@@ -71,7 +71,7 @@ header{
   margin: 1rem auto;
 }
 main{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/Fond.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://anjarasoaluc260105-a11y.github.io/Examen/Fond.jpg');
   background-size: cover;
   object-fit: contain;
   margin-bottom: 2rem;
